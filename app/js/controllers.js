@@ -1,6 +1,7 @@
 'use strict';
 
 /* Controllers */
+<<<<<<< HEAD
 
 var phonecatApp = angular.module('phonecatApp', []);
 
@@ -18,3 +19,5 @@ phonecatApp.controller('PhoneListCtrl', function($scope) {
   ];
   $scope.name = "My World";
 });
+=======
+>>>>>>> 16a935a46927e37b92a82cac5c419ce7c3634ac0
