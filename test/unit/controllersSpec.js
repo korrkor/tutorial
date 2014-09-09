@@ -52,6 +52,9 @@ describe('PhoneCat controllers', function() {
 //    });
   });
 });
+
+	describe('PhoneDetailCtrl', function(){
+  });
 //describe('controllers', function() {
 //
 //  it("should do something", function() {
